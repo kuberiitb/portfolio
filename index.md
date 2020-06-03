@@ -12,8 +12,8 @@
 - Machine Learning
 
 ## Education
-- M.Sc Applied Statistics & Informatics, IIT Bombay, Mumbai
-- B.Sc Statistics(Hons.), Banaras Hindu University, Varanasi
+- **M.Sc Applied Statistics & Informatics**, IIT Bombay, Mumbai
+- **B.Sc Statistics(Hons.)**, Banaras Hindu University, Varanasi
 
 ### Markdown
 

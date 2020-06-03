@@ -1,5 +1,12 @@
 ## Welcome to my Protfolio page
 
+## Work History
+
+## Skills
+- python
+- Machine Learning
+
+## Education
 
 ### Markdown
 

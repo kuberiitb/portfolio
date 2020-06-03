@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: Kuber Chaurasiya
+logo: "/images/logo.png?raw=true"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Science Associate Principal at Accenture Operations India
+  <br><br>
+  Lives in Bengaluru, Karnataka
+  <br><br>
+  <a href="https://www.linkedin.com/in/kuberiitb/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal

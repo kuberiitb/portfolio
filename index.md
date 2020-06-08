@@ -1,6 +1,6 @@
 ## Welcome to my Protfolio page
 
-## Work History
+## Work Experience
  - __Data Science Associate Principal__, __Accentue Operations__, Bengaluru
  - Data Scientist, Vserv, Mumbai
  - Statistician, Wize Commerce, Gurgaon

@@ -15,6 +15,7 @@
 - **M.Sc Applied Statistics & Informatics**, IIT Bombay, Mumbai
 - **B.Sc Statistics(Hons.)**, Banaras Hindu University, Varanasi
 
+<!---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -36,4 +37,5 @@ Syntax highlighted code block
 
 [Portfolio](https://kuberiitb.github.io/portfolio/) and ![Image](src)
 ```
+-->
 [Portfolio](https://kuberiitb.github.io/portfolio/)

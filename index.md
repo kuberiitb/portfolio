@@ -8,8 +8,9 @@
  - Business Analyst, Tata Consultancy Services, Vadodara
 
 ## Skills
-- python
+- Python
 - Machine Learning
+- Deep Learning
 
 ## Education
 - __M.Sc Applied Statistics & Informatics__, IIT Bombay, Mumbai

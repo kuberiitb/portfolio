@@ -7,14 +7,15 @@
  - Statistical Analyst, Onmobile Global , Bangalore
  - Business Analyst, Tata Consultancy Services, Vadodara
 
+## Education
+- __M.Sc Applied Statistics & Informatics__, IIT Bombay, Mumbai
+- __B.Sc Statistics(Hons.)__, Banaras Hindu University, Varanasi
+
 ## Skills
 - Python
 - Machine Learning
 - Deep Learning
 
-## Education
-- __M.Sc Applied Statistics & Informatics__, IIT Bombay, Mumbai
-- __B.Sc Statistics(Hons.)__, Banaras Hindu University, Varanasi
 
 <!---
 ### Markdown

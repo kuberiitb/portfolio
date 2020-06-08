@@ -1,7 +1,7 @@
 ## Welcome to my Protfolio page
 
 ## Work History
- - Data Science Associate Principal, Accentue Operations, Bengaluru
+ - **Data Science Associate Principal**, Accentue Operations, Bengaluru
  - Data Scientist, Vserv, Mumbai
  - Statistician, Wize Commerce, Gurgaon
  - Statistical Analyst, Onmobile Global , Bangalore

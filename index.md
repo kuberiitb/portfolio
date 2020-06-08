@@ -1,7 +1,7 @@
 ## Welcome to my Protfolio page
 
 ## Work History
- - **Data Science Associate Principal**, __Accentue Operations__, Bengaluru
+ - __Data Science Associate Principal__, __Accentue Operations__, Bengaluru
  - Data Scientist, Vserv, Mumbai
  - Statistician, Wize Commerce, Gurgaon
  - Statistical Analyst, Onmobile Global , Bangalore
@@ -12,8 +12,8 @@
 - Machine Learning
 
 ## Education
-- **M.Sc Applied Statistics & Informatics**, IIT Bombay, Mumbai
-- **B.Sc Statistics(Hons.)**, Banaras Hindu University, Varanasi
+- __M.Sc Applied Statistics & Informatics__, IIT Bombay, Mumbai
+- __B.Sc Statistics(Hons.)__, Banaras Hindu University, Varanasi
 
 <!---
 ### Markdown

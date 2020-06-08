@@ -34,5 +34,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Portfolio]( https://kuberiitb.github.io/portfolio/) and ![Image](src)
+[Portfolio](https://kuberiitb.github.io/portfolio/) and ![Image](src)
 ```
